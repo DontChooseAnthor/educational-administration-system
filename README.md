@@ -1,4 +1,4 @@
-# demo3
+# 仿学校教务管理系统平台项目
 
 ## Project setup
 ```
