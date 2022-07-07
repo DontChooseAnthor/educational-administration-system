@@ -14,7 +14,7 @@
     "jquery": "^3.4.1",
     "kuan-vue-flip-clock": "^1.0.1",
     "mockjs": "^1.1.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "pubsub-js": "^1.7.0",
     "vue": "^2.6.10",
     "vue-router": "^3.1.3",
